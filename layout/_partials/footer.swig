@@ -18,5 +18,5 @@
     NexT.{{ theme.scheme }}
   </a>
 </div>
-<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=7d4f9de0b158c34715898239a4cec77b699120bcabda531432046312d0a110e5"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="全视界全景网" title="全视界全景网"></a>
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=7d4f9de0b158c34715898239a4cec77b699120bcabda531432046312d0a110e5"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="山猫全景网" title="山猫全景网"></a>
 {% endif %}
