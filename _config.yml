@@ -38,7 +38,7 @@ seo: true
 menu:
   home: https://www.union-earth.com/
   categories: /categories
-  about: /about
+  about: https://www.union-earth.com/about
   archives: /archives
   tags: /tags
   #sitemap: /sitemap.xml
